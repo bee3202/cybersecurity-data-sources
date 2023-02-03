@@ -33,9 +33,7 @@ https://bugtraq.securityfocus.com/archive
 
 https://www.kb.cert.org/vuls/
 
-https://cxsecurity.com/ (CHECK)
-
-#### Feeds (CHECK IF IT IS AN INDES OR CAN BE DOWNLOWADED AS HTML)
+#### Feeds
 
 http://feeds.feedburner.com/cnet/tcoc
 
@@ -75,7 +73,8 @@ https://www.trendmicro.com/en_us/business.html (html)
 https://cve.mitre.org/cve/ (html, csv, txt, xml, gz)
 
 
-#### XML and rss files with extension (CHECK IF IT IS AN INDEX OR CAN BE DOWNLOADED AS HTML)
+#### XML and rss files with extension
+
 https://www.darkreading.com/rss.xml
 
 https://www.computerworld.com/category/security/index-desc.rss
