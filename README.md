@@ -64,6 +64,8 @@ https://xorl.wordpress.com/feed/
 
 http://cce.mitre.org/cce/ (xls,xlsx,pdf)
 
+* The combined cce file is also available in this repository https://github.com/bee3202/cybersecurity-data-sources/blob/main/cce-COMBINED-5.20130214.xls
+
 http://cpe.mitre.org/cpe/ (xls,xlsx,pdf)
 
 https://www.farsightsecurity.com/technical/ (pdf)
