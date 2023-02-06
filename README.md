@@ -68,7 +68,7 @@ http://cce.mitre.org/cce/ (xls,xlsx,pdf)
 
 http://cpe.mitre.org/cpe/
 * The cpe dictionary file is also available in this [repository](official-cpe-dictionary_v2.3.xml.gz)
-* The cpe specifications are now hosted in this [url] (https://csrc.nist.gov/publications/nistir) 
+* The cpe specifications are now hosted in https://csrc.nist.gov/publications/nistir
 
 https://www.farsightsecurity.com/technical/ (pdf)
 
