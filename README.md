@@ -64,8 +64,7 @@ https://xorl.wordpress.com/feed/
 
 http://cce.mitre.org/cce/ (xls,xlsx,pdf)
 
-The combined cce file is also available in this 
-[repository](cce-COMBINED-5.20130214.xls)
+* The combined cce file is also available in this [repository](cce-COMBINED-5.20130214.xls)
 
 http://cpe.mitre.org/cpe/) (xls,xlsx,pdf)
 
