@@ -4,3 +4,8 @@ climate-news-db-dataset/*.jsonlines filter=lfs diff=lfs merge=lfs -text
 climate-news-db-dataset/*.csv filter=lfs diff=lfs merge=lfs -text
 climate-news-db-dataset/*txt filter=lfs diff=lfs merge=lfs -text
 climate-news-db-dataset/*.bak filter=lfs diff=lfs merge=lfs -text
+climate-news-db-dataset/articles/*.json filter=lfs diff=lfs merge=lfs -text
+climate-news-db-dataset/articles/*.jsonlines filter=lfs diff=lfs merge=lfs -text
+climate-news-db-dataset/articles/*.csv filter=lfs diff=lfs merge=lfs -text
+climate-news-db-dataset/articles/*.txt filter=lfs diff=lfs merge=lfs -text
+climate-news-db-dataset/articles/*.bak filter=lfs diff=lfs merge=lfs -text
