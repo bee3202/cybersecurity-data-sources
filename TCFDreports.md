@@ -15,7 +15,6 @@ https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com%2Fcf61ff6c-ee1d-4dcb-
 https://www.lazardassetmanagement.com/docs/-m0-/118602/TaskForceOnClimate-RelatedFinancial_en.pdf
 https://www.bankofengland.co.uk/-/media/boe/files/annual-report/2020/climate-related-financial-disclosure-report-2019-20.pdf
 https://av.sc.com/corp-en/content/docs/tcfd-climate-change-disclosure.pdf
-https://www.bhp.com/-/media/bhp/documents/investors/reports/2015/bhpbillitonclimatechangeporfolioanalysis2015.pdf
 https://axa-prod.s3.amazonaws.com/www-axa-com%2Fcb46e9f7-8b1d-4418-a8a7-a68fba088db8_axa_investor_climate_report.pdf
 https://corporate-media.arcelormittal.com/media/hs4nmyya/am_climateactionreport_1.pdf
 https://www.macquarie.com/assets/macq/impact/esg/policies/fy21-tcfd-implementation-progress-and-scenario-analysis.pdf
@@ -23,8 +22,6 @@ https://landsec.com/sites/default/files/2021-06/Net%20Zero%20Carbon%20Pathway_FI
 https://s27.q4cdn.com/486073686/files/doc_downloads/2021/01/TCFD-Report_v1_Preview.pdf
 https://www.riotinto.com/-/media/Content/Documents/Invest/Reports/Climate-Change-reports/RT-climate-report-2020.pdf
 https://www.db.com/ir/en/download/2020_Climate_Statement_12_08_2020.pdf
-https://www.kbfg.com/common/jsp/fileDownUtil.jsp?filepath=/Kor/esg/__attachFile/2022_KBFG_TCFD_Report.pdf
-https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com%2Ff570ad25-6178-47a0-afb9-59a5b7d3d70a_changementclimatique_rapport_risqueinvestissement_vf_30.08.17-b.pdf
 https://ir.regions.com/~/media/Files/R/Regions-IR/documents/governance-documents/2020-task-force-on-climate-related-financial-disclosures-tcfd-report.pdf
 https://group.bnpparibas/uploads/file/bnpparibas_tcfd_report_en.pdf
 https://realassets.axa-im.com/documents/23818/221263/AXA+IM+-TCFD+Report+Highlights+EN-+Updated+-+160720+FINAL.pdf
@@ -77,11 +74,8 @@ https://investors.natwestgroup.com/~/media/Files/R/RBS-IR-V2/results-center/1902
 https://www.goldfields.com/pdf/investors/integrated-annual-reports/2019/tcfd-report-2019.pdf
 https://www.agl.com.au/-/media/aglmedia/documents/about-agl/investors/results-centre/2020/pathways-to-2050_130820.pdf
 https://www.goldfields.com/pdf/investors/integrated-annual-reports/2020/tcfd-report-2020-gold-fields.pdf
-https://www.kbfg.com/common/jsp/fileDownUtil.jsp?filepath=/Kor/esg/__attachFile/2021%20KBFG%20TCFD%20Report.pdf
-https://www.shell.com/promos/business-customers-promos/download-latest-scenario-sky/_jcr_content.stream/1530643931055/eca19f7fc0d20adbe830d3b0b27bcc9ef72198f5/shell-scenario-sky.pdf
 https://www.bostontrustwalden.com/wp-content/uploads/2021/06/BTW-Task-Force-Climate-related-Financial-Disclosure-June-2021.pdf
 https://assets.ctfassets.net/lyt4cjmefjno/AEGMTeYYepLWNTYU7hcjT/1b19aad92e2249f3b0c99a310e7564f4/AIMCO-TCFD.pdf
-https://www.rbc.com/community-social-impact/_assets-custom/pdf
 https://www.bhp.com/-/media/documents/investors/annual-reports/2020/200910_bhpclimatechangereport2020.pdf
 https://regcorpweb.blob.core.windows.net/sitefinityfiles/docs/default-source/corporate-responsibility/2020-tcfd-report.pdf
 https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/db5d9f4b-4bb9-4029-ad51-b9e0e20301fb_2021_Climate_Report.pdf
@@ -178,7 +172,6 @@ https://www.iairgroup.com/~/media/Files/I/IAG/EN-Non-Financial-Information-Final
 https://www.sacyr.com/documents/63048160/64545294/Infome%20Integrado%20de%20Sostenibilidad%202020.pdf
 https://www.nordea.com/Images/33-353222/nordea-sustainability-report-2019.pdf
 https://www.braskem.com.br/portal/Principal/arquivos/relatorio-anual/2019/BRASKEM_RAS2019_ingles.pdf
-https://www.dbs.com/iwov-resources/images/sustainability/reporting/pdf/DBS%20Sustainability%20Report%202019%2020200306.pdf?pid=sg-group-pweb-sustainability-pdf
 http://www.vale.com/EN/investors/information-market/annual-reports/sustainability-reports/Sustainability%20Reports/Relatorio_sustentabilidade_vale_2019_alta_en.pdf
 https://www.nestle.com/sites/default/files/2021-03/creating-shared-value-report-2020-en.pdf
 https://annualreport2020.acciona.com/pdfs/sust-report-acciona20.pdf
