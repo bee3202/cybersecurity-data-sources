@@ -47,3 +47,8 @@ https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/f
 https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000046.json.gz
 https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000047.json.gz
 https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000048.json.gz
+https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000049.json.gz
+https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000050.json.gz
+https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000051.json.gz
+https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000052.json.gz
+https://huggingface.co/datasets/codeparrot/codeparrot-clean-train/resolve/main/file-000000000053.json.gz
